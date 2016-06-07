@@ -1,1 +1,2 @@
 Started loggin Line1
+Line2
